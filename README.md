@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Yugal-Koirala** is a ✨
+**Yugal-Koirala** 
 
 - 🔭 I’m currently studying.
 - 🌱 I’m currently learning ML.
