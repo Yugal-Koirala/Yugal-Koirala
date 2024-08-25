@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**Yugal-Koirala/Yugal-Koirala** is a ✨
-
-Here are some ideas to get you started:
+**Yugal-Koirala** is a ✨
 
 - 🔭 I’m currently studying.
 - 🌱 I’m currently learning ML.
