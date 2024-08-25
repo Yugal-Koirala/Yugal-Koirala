@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Yugal-Koirala/Yugal-Koirala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Yugal-Koirala/Yugal-Koirala** is a ✨
 
 Here are some ideas to get you started:
 
@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AI.
 - 💬 Ask me about anything.
 - 📫 How to reach me: fb me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
